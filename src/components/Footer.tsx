@@ -105,13 +105,7 @@ const Footer: React.FC = () => {
             <div className="flex items-center mb-4 md:mb-0">
               <span>Crafted with</span>
               <Heart className="h-4 w-4 text-red-500 mx-2 animate-pulse" />
-              <span>for Digital India | Guided by Vimal Daga | Powered by AWS</span>
-            </div>
-            
-            <div className="flex space-x-6">
-              <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-              <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-              <a href="#" className="hover:text-white transition-colors">Contact Us</a>
+              <span>for Digital India</span>
             </div>
           </div>
 
