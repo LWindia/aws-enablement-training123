@@ -220,7 +220,7 @@ const RegistrationForm: React.FC<RegistrationFormProps> = ({ isOpen, onClose }) 
           Join Vimal Daga's comprehensive AWS Cloud Enablement Training program. 
           Learn from India's most celebrated cloud architect - completely free!
           <br />
-          <span className="font-semibold text-orange-600">Training starts on 1st September 2025</span>
+          <span className="font-semibold text-orange-600">Training starts on 9th Sept 2025</span>
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-6">

@@ -301,7 +301,7 @@ const Curriculum: React.FC = () => {
             Join thousands of professionals who have transformed their careers through our comprehensive AWS training program
           </p>
           <div className="bg-yellow-400 text-gray-900 rounded-full px-6 py-3 inline-block mb-8 font-semibold animate-pulse">
-            🚀 Starting on 1st Sept 2025
+            🚀 Starting on 9th Sept 2025
           </div>
           {/* FREE Training Highlight */}
           <div className="bg-gradient-to-r from-green-500 to-emerald-500 text-white px-8 py-4 rounded-full inline-block mb-8 font-bold text-2xl shadow-2xl animate-pulse">

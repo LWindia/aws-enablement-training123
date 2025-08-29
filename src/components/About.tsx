@@ -80,7 +80,7 @@ const About: React.FC = () => {
             Join thousands of professionals who have accelerated their careers through our comprehensive 
             AWS Cloud Enablement Training program, designed to support India's digital transformation journey.
             <br />
-            <span className="font-semibold text-orange-600 mt-2 inline-block">Training starts on 1st September 2025</span>
+            <span className="font-semibold text-orange-600 mt-2 inline-block">Training starts on 9th Sept 2025</span>
             <br />
             <span className="font-semibold text-green-600 mt-2 inline-block text-lg">100% FREE TRAINING - NO COST INVOLVED!</span>
           </p>

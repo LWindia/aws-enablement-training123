@@ -23,7 +23,7 @@ function createConfirmationEmailHTML(name) {
         <div style="background: #f3f4f6; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #f97316;">
           <h3 style="margin: 0 0 10px 0; color: #1f2937;">Training Schedule</h3>
           <p style="margin: 0; color: #4b5563; font-weight: 500;">
-            The training sessions will officially begin from <strong>1st September 2025, evening 7:00 PM onwards</strong>.
+            The training sessions will officially begin from <strong>9th Sept 2025, evening 7:00 PM onwards</strong>.
           </p>
           <p style="margin: 10px 0 0 0; color: #4b5563;">
             Please ensure you're available and ready to kick-start this transformative journey.
@@ -78,7 +78,7 @@ function createConfirmationEmailPlainText(name) {
 We're thrilled to inform you that your registration has been successfully confirmed for the AWS Cloud Enablement Training!
 
 Training Schedule:
-The training sessions will officially begin from 1st September 2025, evening 7:00 PM onwards.
+The training sessions will officially begin from 9th Sept 2025, evening 7:00 PM onwards.
 Please ensure you're available and ready to kick-start this transformative journey.
 
 WhatsApp Group:

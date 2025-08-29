@@ -173,7 +173,7 @@ const Hero: React.FC = () => {
             </p>
             <div className="space-y-3">
               <div className="bg-gradient-to-r from-orange-500 to-red-500 text-white px-6 py-3 rounded-full inline-block animate-pulse">
-                <span className="font-semibold">Starting on 1st Sept 2025</span>
+                <span className="font-semibold">Starting on 9th Sept 2025</span>
               </div>
               {/* FREE Training Highlight */}
               <div className="bg-gradient-to-r from-green-500 to-emerald-500 text-white px-8 py-4 rounded-full inline-block animate-pulse shadow-2xl">

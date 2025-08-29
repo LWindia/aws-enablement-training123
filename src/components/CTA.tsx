@@ -48,7 +48,7 @@ const CTA: React.FC = () => {
 
           {/* Urgency Indicator */}
           <div className="bg-yellow-400 text-gray-900 rounded-full px-6 py-3 inline-block mb-8 font-semibold animate-pulse">
-            Starting on 1st Sept 2025 - Limited Seats Available!
+            Starting on 9th Sept 2025 - Limited Seats Available!
           </div>
 
           {/* FREE Training Highlight */}
